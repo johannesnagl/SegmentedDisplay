@@ -2,7 +2,7 @@
 
 Goal is to find a solution in the lowest number of bytes possible. Current state: 137 bytes.
 
-`source.js` contains the code as hand-written by me. `minified.js` is the uglified version.
+`source.js` contains the code as hand-written by me. `minified.js` is the uglified version. To run it, simply copy/paste the contents of `minified.js` into your browser's console.
 
 The original challenge, as posed by @johannesnagl:
 
