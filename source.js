@@ -18,6 +18,8 @@ for (i = 10000; i++ < 20000;) {
   j = i + "";
 
   if (r.test(j)) {
+    // calculate score by summing up each digit's (excluding the first) value
+    // from the `m` map
     s = m[j[1]] + m[j[2]] + m[j[3]] + m[j[4]];
 
     // if the score of the current timestamp is higher than the current
