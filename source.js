@@ -1,5 +1,5 @@
 // digit to value map: first character is value of "0", etc.
-m = "6255456376";
+m = 6255456376;
 
 // "highscrore"
 h = 0;
